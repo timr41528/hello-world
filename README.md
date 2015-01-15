@@ -1,4 +1,4 @@
-##hello-world
+#hello-world
 ## Data Science Specialization 
 
 * Uses R 
@@ -8,5 +8,5 @@
 
 
 ===========
-Yadda, Yadda, Yadda.
+### Yadda, Yadda, Yadda.
 
